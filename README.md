@@ -2,4 +2,3 @@
 
 - 🌍  I am a Front-End Developer based in west Bengal,india
 - 💻 Open to work!
-
